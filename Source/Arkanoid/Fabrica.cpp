@@ -27,10 +27,10 @@ void AFabrica::Tick(float DeltaTime)
 
 ABrick* OrderBrick(FString Category)
 {
-	ABrick* Bricks = ConcoctBrick(Category);
+	//ABrick* Bricks = ConcoctBrick(Category);
 	//GEngine->AddOnScreenDebugMessage(-1, 15.f, FColor::Yellow,FString::Printf(TEXT("Concocting %s"),*Bricks->GetPotionName()));
 
 	//Bricks->Tick(DeltaTime);
 
-	return Bricks;
+	return nullptr;
 }

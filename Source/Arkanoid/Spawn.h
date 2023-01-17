@@ -21,6 +21,12 @@ public:
 	UPROPERTY(VisibleAnywhere)
 		class ABrick* Brick;
 
+	UPROPERTY(VisibleAnywhere)
+		class ABrickRecto* BrickR;
+
+	UPROPERTY(VisibleAnywhere)
+		class ABrickCurva* BrickC;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

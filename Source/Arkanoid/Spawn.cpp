@@ -3,6 +3,8 @@
 
 #include "Spawn.h"
 #include "Brick.h"
+#include "BrickRecto.h"
+#include "BrickCurva.h"
 #include "Components/BoxComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "PaddlePlayerController.h"
@@ -61,12 +63,18 @@ void ASpawn::Tick(float DeltaTime)
 
 void ASpawn::Bricks()
 {
+	FVector Spawn0(-130.0f, 0.0f, 330.0f);
 	FVector Spawn1(-130.0f, 0.0f, 350.0f);
 	FVector Spawn2(50.0f, 0.0f, 0.0f);
 	FVector Spawn3(0.0f, 0.0f,-20.0f);
 	FVector Spawn4(0.0f, 0.0f, -20.0f);
 
-	for (int a = 1; a <= 4; a++) {
+	BrickR = GetWorld()->SpawnActor<ABrickRecto>(ABrickRecto::StaticClass(), Spawn1, FRotator::ZeroRotator);
+
+	BrickC = GetWorld()->SpawnActor<ABrickCurva>(ABrickCurva::StaticClass(), Spawn0, FRotator::ZeroRotator);
+
+
+	/*for (int a = 1; a <= 4; a++) {
 
 		//FVector Spawn1(-130.0f, 0.0f, 350.0f);
 		//FVector Spawn2(50.0f, 0.0f, 0.0f);
@@ -85,7 +93,7 @@ void ASpawn::Bricks()
 		Spawn1 = Spawn1 + Spawn4;
 		Spawn4 = Spawn3 + Spawn4;
 
-	}
+	}*/
 }
 
 void ASpawn::setnl(int _nla)

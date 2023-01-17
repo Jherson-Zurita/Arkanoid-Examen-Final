@@ -3,6 +3,7 @@
 
 #include "ArkanoidGameModeBase.h"
 #include "Brick.h"
+#include "FabricaMov.h"
 
 void AArkanoidGameModeBase::BeginPlay()
 {
@@ -17,13 +18,19 @@ void AArkanoidGameModeBase::BeginPlay()
 
 		
 	//MyBall = GetWorld()->SpawnActor<ABall>(BallObj, SpawnLocation, SpawnRotator, SpawnInfo);
-	Ladrillo01 = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(),Ubicacion, Rotador);
+	//Ladrillo01 = GetWorld()->SpawnActor<ABrick>(ABrick::StaticClass(),Ubicacion, Rotador);
 	//Ladrillo01->SetHidden(false);
 	//GEngine->AddOnScreenDebugMessage(-1, -1, FColor::Cyan, TEXT("Actor creado"));
 
+
+
+
+	/*AFabrica* Fabricamov = GetWorld()->SpawnActor<AFabricaMov>(AFabricaMov::StaticClass());
+
+	ABrick* brick = Fabricamov->OrderBrick("BrickRecto");
+	//Create an Inner Health Potion and log its name
+	brick = Fabricamov->OrderBrick("BrickCurva");*/
 	
-
-
 
 
 }
