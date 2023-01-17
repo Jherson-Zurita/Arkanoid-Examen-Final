@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arkanoid-1601.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\ArkanoidEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Arkanoid.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\ArkanoidGameModeBase.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Ball.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\BallBound.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Brick.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\PaddlePlayerController.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Arkanoid.init.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\ArkanoidGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Ball.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\BallBound.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Brick.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\PaddlePlayerController.gen.cpp.obj"
+"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-1601.lib"

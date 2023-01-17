@@ -1,0 +1,16 @@
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Definitions.Arkanoid.h
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Source\Arkanoid\PaddlePlayerController.h
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaddlePlayerController.generated.h
+D:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Source\Arkanoid\Paddle.h
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Paddle.generated.h

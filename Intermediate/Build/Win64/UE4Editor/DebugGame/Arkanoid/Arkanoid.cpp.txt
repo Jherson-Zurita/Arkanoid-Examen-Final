@@ -1,0 +1,2 @@
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Definitions.Arkanoid.h
+C:\Users\2017\Documents\Unreal Projects\Arkanoid\Source\Arkanoid\Arkanoid.h

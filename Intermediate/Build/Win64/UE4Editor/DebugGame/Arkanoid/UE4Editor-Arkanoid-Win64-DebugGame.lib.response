@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arkanoid-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\ArkanoidEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Arkanoid.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\ArkanoidGameModeBase.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Paddle.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\PaddlePlayerController.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Arkanoid.init.gen.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\ArkanoidGameModeBase.gen.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Paddle.gen.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\PaddlePlayerController.gen.cpp.obj"
+"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Default.rc2.res"
+/OUT:"C:\Users\2017\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\UE4Editor-Arkanoid-Win64-DebugGame.lib"
